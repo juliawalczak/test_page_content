@@ -2,7 +2,7 @@
 
 A simple test script in Python that automates the following test cases:
 
-The first test case
+The first test case</br>
 Steps to repeat:
 1. Go to the website "https://www.wsb.pl/".
 2. Check if the title of the website contains the words:"Wyższe Szkoły Bankowe".
