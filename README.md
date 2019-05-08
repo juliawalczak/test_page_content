@@ -10,7 +10,7 @@ The expected result:<br>
 The title of the website contains the words:"Wyższe Szkoły Bankowe".
 <br>
 <b>The second test case:</b><br>
-Steps to repeat:
+Steps to repeat:<br>
 1. Go to the website "https://www.wsb.pl/wroclaw/".<br>
 2. Check if the title of the website contains the word:"Wrocławiu".<br>
 The expected result:<br>
