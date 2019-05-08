@@ -3,7 +3,6 @@
 A simple test script in Python that automates the following test cases:
 
 <b>The first test case</b><br>
-<br>
 Steps to repeat:<br>
 1. Go to the website "https://www.wsb.pl/".<br>
 2. Check if the title of the website contains the words:"Wyższe Szkoły Bankowe".<br>
@@ -24,7 +23,7 @@ Steps to repeat:<br>
 The expected result:<br>
 The title of the website contains the word:"Chorzowie".<br>
 <br>
-The fourth test case<br>
+<b>The fourth test case</b><br>
 Steps to repeat:<br>
 1. Go to the website "https://www.wsb.pl/gdansk/".<br>
 2. Check if the title of the website contains the word:"Gdańsku".<br>
