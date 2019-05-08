@@ -8,28 +8,29 @@ Steps to repeat:
 1. Go to the website "https://www.wsb.pl/".
 2. Check if the title of the website contains the words:"Wyższe Szkoły Bankowe".
 <br>
-The expected result:
+The expected result:<br>
 The title of the website contains the words:"Wyższe Szkoły Bankowe".
-
+<br>
 The second test case:<br>
 Steps to repeat:
-1. Go to the website "https://www.wsb.pl/wroclaw/".
-2. Check if the title of the website contains the word:"Wrocławiu".
+1. Go to the website "https://www.wsb.pl/wroclaw/".<br>
+2. Check if the title of the website contains the word:"Wrocławiu".<br>
 <br>
 The expected result:<br>
-The title of the website contains the word:"Wrocławiu".
-
+The title of the website contains the word:"Wrocławiu".<br>
+<br>
 The third test case<br>
-Steps to repeat:
-1. Go to the website "https://www.wsb.pl/chorzow/".
-2. Check if the title of the website contains the word:"Chorzowie".
+Steps to repeat:<br>
+1. Go to the website "https://www.wsb.pl/chorzow/".<br>
+2. Check if the title of the website contains the word:"Chorzowie".<br>
 <br>
 The expected result:<br>
-The title of the website contains the word:"Chorzowie".
+The title of the website contains the word:"Chorzowie".<br>
 The fourth test case<br>
-Steps to repeat:
-1. Go to the website "https://www.wsb.pl/gdansk/".
+<br>
+Steps to repeat:<br>
+1. Go to the website "https://www.wsb.pl/gdansk/".<br>
 2. Check if the title of the website contains the word:"Gdańsku".<br>
 <br>
 The expected result:<br>
-The title of the website contains the word:"Gdańsku".<br>
+The title of the website contains the word:"Gdańsku".
